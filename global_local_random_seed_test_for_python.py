@@ -18,6 +18,8 @@ will make the random seed behave in a globally uniform way (in all functions).
 """
 
 """
+sample colab output:
+
 first print
 first Random Number: 82
 first Random Number: 82
