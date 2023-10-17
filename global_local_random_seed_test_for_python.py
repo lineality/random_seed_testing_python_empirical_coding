@@ -1,5 +1,7 @@
 """
 ## random_seed_testing_python_empirical_coding
+https://github.com/lineality/random_seed_testing_python_empirical_coding
+
 # Empirically test if python global and local settings of random seeds.
 
 At least in colab ipython notebooks,
