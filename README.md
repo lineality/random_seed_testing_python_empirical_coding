@@ -1,4 +1,4 @@
-"""
+
 ## random_seed_testing_python_empirical_coding
 # Empirically test if python global and local settings of random seeds.
 
@@ -13,9 +13,9 @@ to the the desired seed setting variable
 which is imported as global with ~"global global_seed"
 or ~imported as a parameter input to tue function ~(global_seed)
 will make the random seed behave in a globally uniform way (in all functions).
-"""
 
-"""
+
+```
 first print
 first Random Number: 82
 first Random Number: 82
@@ -40,8 +40,9 @@ function_global_seed Random Number after: 15
 
 last Random Number: 82
 last Random Number: 82
-"""
+```
 
+```
 import random
 
 print("first print")
@@ -141,3 +142,4 @@ function_import_seed(global_seed)
 # Print the random number along with the function name
 print(f"last Random Number: {random_number}")
 print(f"last Random Number: {random_number}\n")
+```
