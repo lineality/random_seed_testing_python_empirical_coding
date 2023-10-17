@@ -14,6 +14,7 @@ which is imported as global with ~"global global_seed"
 or ~imported as a parameter input to tue function ~(global_seed)
 will make the random seed behave in a globally uniform way (in all functions).
 
+#### sample colab output:
 
 ```
 first print
@@ -42,6 +43,7 @@ last Random Number: 82
 last Random Number: 82
 ```
 
+#### code
 ```
 import random
 
